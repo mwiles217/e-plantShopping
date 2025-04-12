@@ -5,24 +5,32 @@ function AboutUs() {
   return (
     <div className="about-us-container">
       {/* <h1 className="about-us-heading">About Us</h1> */}
-      <p className="about-us-description">Welcome to Paradise Nursery, where green meets serenity!</p>
+      <p className="about-us-description">Welcome to Emberleaf Gardens, Cultivate life, beauty, and green connection.!</p>
       <p className="about-us-content">
-        At Paradise Nursery, we are passionate about bringing nature closer to you. Our mission is to provide a wide range of 
-        high-quality plants that not only enhance the beauty of your surroundings but also contribute to a healthier and 
-        more sustainable lifestyle. From air-purifying plants to aromatic fragrant ones, we have something for every 
-        plant enthusiast.
+      Emberleaf Gardens, nestled in a quiet corner of the city, was a haven for both seasoned botanists 
+      and curious newcomers. The shop's facade, a riot of climbing ivy and vibrant flowering vines, 
+      hinted at the verdant wonderland within. Inside, the air hummed with the quiet energy of 
+      countless living things. Sunlight streamed through a glass ceiling, illuminating rows of 
+      exotic ferns, succulents with otherworldly textures, and flowering plants boasting 
+      hues unseen in any ordinary garden. The scent of damp earth, sweet blossoms, 
+      and subtle herbal notes mingled, creating an intoxicating 
+      aroma that soothed the soul.
       </p>
       {/* <p className="plant_logo_left"><img src="https://p1.hiclipart.com/preview/922/979/640/green-leaf-logo-emoji-seedling-emoticon-sticker-plant-plant-stem-flower-png-clipart-thumbnail.jpg" height='50px' width='50px' alt="" /></p> */}
       <p className="about-us-content">
-        Our team of experts is dedicated to ensuring that each plant meets our strict standards of quality and care. 
-        Whether you're a seasoned gardener or just starting your green journey, we're here to support you every step of 
-        the way. Feel free to explore our collection, ask questions, and let us help you find the perfect plant for your 
-        home or office.
+      The owner, a woman named Elara with hands perpetually stained green, possessed an 
+      uncanny knowledge of every plant under her care. She could diagnose a wilting leaf 
+      with a single glance and prescribe the perfect remedy, often accompanied by a story 
+      or a bit of folklore connected to the plant's origins. Elara believed plants were 
+      more than just decorations; they were living companions, each with its own 
+      personality and needs. She curated her collection with a focus on rare and 
+      unusual specimens, seeking out plants with unique stories and medicinal 
+      properties from far-flung corners of the world.
       </p>
       {/* <p className="plant_logo_right"><img src="https://p1.hiclipart.com/preview/922/979/640/green-leaf-logo-emoji-seedling-emoticon-sticker-plant-plant-stem-flower-png-clipart-thumbnail.jpg" height='50px' width='50px' alt="" /></p> */}
 
       <p className="about-us-content">
-        Join us in our mission to create a greener, healthier world. Visit Paradise Nursery today and experience the 
+        Join us in our mission to create a greener, healthier world. Visit Emberleaf Gardens today and experience the 
         beauty of nature right at your doorstep.
       </p>
     </div>
